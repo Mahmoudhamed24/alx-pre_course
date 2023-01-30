@@ -1,1 +1,2 @@
-# README for alx-pre_course repo
+# README for alx-pre_co
+mahmoud hamed
